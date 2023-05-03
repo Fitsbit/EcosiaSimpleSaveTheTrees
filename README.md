@@ -7,4 +7,7 @@ open a notepad file and paste the script of your chose, do ctrl s, and change te
 
 Open CMD as adminstrator and run commands "pip install pyautogui" and "pip install keyboard" and "pip install mouse". 
 
+You can also download the scripts
+
+
 Open your file explorer and double click on the script. And boom, your planting trees. Keep in mind that 45 searches allows for one tree planted.

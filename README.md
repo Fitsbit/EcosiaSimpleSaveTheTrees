@@ -9,5 +9,6 @@ Open CMD as adminstrator and run commands "pip install pyautogui" and "pip insta
 
 You can also download the scripts
 
+Find out what your default browser is, for most windows computers it is Edge or Chrome. open your default browser and open one new empty tab. This allows for the window to stop closing and reopening. If you want to leave it to be and close and reopen skip this step.
 
 Open your file explorer and double click on the script. And boom, your planting trees. Keep in mind that 45 searches allows for one tree planted.

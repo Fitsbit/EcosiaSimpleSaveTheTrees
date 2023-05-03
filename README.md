@@ -1,2 +1,10 @@
-# urban-octo-robot
+# EcosiaSimpleSaveTheTrees
 Two simple python scripts that search random numbers on Ecosia to help save and plant trees. One script uses Pyautogui while the other does not and uses keyboard. I recommend running them at night when you go to bed 
+
+How to run:
+
+open a notepad file and paste the script of your chose, do ctrl s, and change text file to all files. Name you script as Name.py. Change "name" to some thing of your choice or keep it. 
+
+Open CMD as adminstrator and run commands "pip install pyautogui" and "pip install keyboard" and "pip install mouse". 
+
+Open your file explorer and double click on the script. And boom, your planting trees. Keep in mind that 45 searches allows for one tree planted.

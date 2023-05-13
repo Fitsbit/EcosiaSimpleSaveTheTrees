@@ -13,3 +13,6 @@ You can also download the scripts
 Find out what your default browser is, for most windows computers it is Edge or Chrome. open your default browser and open one new empty tab. This allows for the window to stop closing and reopening. If you want to leave it to be and close and reopen skip this step.
 
 Open your file explorer and double click on the script. If that doesn't work open cmd and copy the path of the folder on where you downloaded it. IT can be found at the top. EX: C:\\Users\blank\EcosiaSimpleSaveTheTrees. go to ur cmd and type "cd" then do ctrl v to paste your path of the folder. Then type python followed by the name of your script file with .py at the end. And boom, your planting trees. Keep in mind that 45 searches allows for one tree planted.
+
+
+NOTE: if you installed the requirments you can just run the exe.
